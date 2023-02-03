@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://milderbronze.github.io/personalPortfolio/](https://milderbronze.github.io/personalPortfolio/)
 
-- 📝 I regularly write blogs, documentaries and threads on [<Twitter>](<twitter.com/sum_itt20>)
+- 📝 I regularly write blogs, documentaries and threads on my Twitter timeline: **twitter.com/sum_itt20**
 
 - 💬 Ask me about **Threejs, JavaScript, DOM Manipulation**
 
