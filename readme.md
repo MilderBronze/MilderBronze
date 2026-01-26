@@ -10,7 +10,7 @@
  
  🔭 I’m a final-year student focused on crafting innovative solutions.
  
- 🌱 I’m currently learning **Docker, CleanArchitecture, Onion Architecture, Layered Architecture, AWS**
+ 🌱 I’m currently learning **Docker, CleanArchitecture, Onion Architecture, Layered Architecture, Google Cloud**
 
 💬 Ask me about **Node.js, React... or anything [here](https://github.com/MilderBronze)**
 
