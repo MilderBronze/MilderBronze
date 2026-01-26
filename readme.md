@@ -12,8 +12,6 @@
  
  🌱 I’m currently learning **Docker, CleanArchitecture, Onion Architecture, Layered Architecture, Google Cloud**
 
-💬 Ask me about **Node.js, React... or anything [here](https://github.com/MilderBronze)**
-
 ⚡ Fun fact **Harvey Specter’s record collection in Suits? Most of those vinyls were just empty sleeves bought from thrift stores for set dressing**
 
 </div>
