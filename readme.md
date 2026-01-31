@@ -7,10 +7,8 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m a final-year student focused on crafting innovative solutions.
- 
- 🌱 I’m currently learning **Docker, CleanArchitecture, Onion Architecture, Layered Architecture, Google Cloud**
+  
+ 🌱 I’m currently learning **GenAI, Google Cloud**
 
 ⚡ Fun fact **Harvey Specter’s record collection in Suits? Most of those vinyls were just empty sleeves bought from thrift stores for set dressing**
 
