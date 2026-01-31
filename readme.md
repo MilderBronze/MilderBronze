@@ -32,10 +32,12 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,aws,express,mongodb,java,mysql,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,java,mysql,docker,gcp" /><br>
 </div>
+
 
 <br/>
 <hr/>
