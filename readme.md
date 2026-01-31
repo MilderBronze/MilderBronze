@@ -42,12 +42,12 @@
 <br/>
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 
   <img src="https://raw.githubusercontent.com/MilderBronze/MilderBronze/output/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
   
   <br/><br/><br/>
